@@ -5,7 +5,7 @@ This project is a full stack e-commerce website built using MERN Stack.
 
 - [Features](#overview)
 - [My process](#my-process)
-- [Getting Started](#getting-started)
+
 
 
 ## 🚨 Overview
