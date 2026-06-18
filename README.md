@@ -19,8 +19,8 @@ This project is a full stack e-commerce website built using MERN Stack.
 - About Page
 - Contact Page
 - Product Page
-- Cart Page
 
+- Placed order page
 
 
 ## 🤸 Getting Started
